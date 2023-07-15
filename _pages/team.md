@@ -1,10 +1,12 @@
 ---
-title: "Allan Lab - Team"
+title: "Ko Research Group - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Ko Research Group: Team members"
 sitemap: false
 permalink: /team/
 ---
+
+
 
 # Group Members
 
@@ -132,7 +134,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
-## Alumni
+<!--## Alumni
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -163,34 +165,4 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
-
-## Former visitors, BSc/ MSc students
-<div class="row">
-
-<div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-</div>
-
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+{% endif %}-->
