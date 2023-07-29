@@ -69,6 +69,7 @@ $line-height-computed:    floor(($font-size-base * $line-height-base)) !default;
 $headings-font-family:    inherit !default;
 $headings-font-weight:    400 !default;
 $headings-line-height:    1.1 !default;
+//  $headings-line-height:    1.5 !default; //HK
 $headings-color:          $gray-dark !default;
 
 
@@ -359,6 +360,7 @@ $container-lg:                 $container-large-desktop !default;
 
 // Basics of a navbar
 $navbar-height:                    50px !default;
+//  $navbar-height:                    85px !default; // HK
 $navbar-margin-bottom:             $line-height-computed !default;
 $navbar-border-radius:             $border-radius-base !default;
 $navbar-padding-horizontal:        floor(($grid-gutter-width / 2)) !default;

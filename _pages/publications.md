@@ -6,58 +6,25 @@ sitemap: false
 permalink: /publications/
 ---
 
-## Publications
 
-- [Highlights](#highlights)
-- [Full List](#full-list-of-publications)
-- [Google Schober](https://scholar.google.com/citations?user=XIkT2kwAAAAJ&hl=en)
-
-
-### Highlights
-
-
-{% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
-
-{% if even_odd == 0 %}
 <div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p>{{ publi.authors }}, <strong><a href="{{ publi.link.url }}">{{ publi.link.display }}.</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
- </div>
+<div class="col-sm-4">
+## Publications
+[Google Scholar Citations](https://scholar.google.com/citations?user=XIkT2kwAAAAJ&hl=en)
 </div>
 
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
+<div class="col-sm-8">
+<img src="{{ site.url }}{{ site.baseurl }}/images/themepic/publications_banner/publications_banner.png" alt="Publication Theme" width="100%" align="right"/>
 </div>
-{% endif %}
-
-{% endif %}
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
 </div>
-{% endif %}
-
-<p> &nbsp; </p>
 
 
-### Full List
+
+<!-- TODO: add data/codes/containers -->
 
 <ol reversed>
-{% for publi in site.data.publist %}
-  <li> {{ publi.authors }}, <em>"{{ publi.title }},"</em> <strong><a href="{{ publi.link.url }}">{{ publi.link.display }}.</a></strong> </li>
+{% for work in site.data.publications %}
+  <li> {{ work.authors }}, <em>"{{ work.title }},"</em> <strong><a href="{{ work.link.url }}">{{ work.link.display }}.</a></strong> </li>
 {% endfor %}
 </ol>
+
