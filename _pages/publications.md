@@ -22,9 +22,11 @@ permalink: /publications/
 
 <!-- TODO: add data/codes/containers -->
 
-<ol reversed>
+<!-- <ol reversed> -->
+<ul>
 {% for work in site.data.publications %}
   <li> {{ work.authors }}, <em>"{{ work.title }},"</em> <strong><a href="{{ work.link.url }}">{{ work.link.display }}.</a></strong> </li>
 {% endfor %}
-</ol>
+</ul>
+<!-- </ol> -->
 
