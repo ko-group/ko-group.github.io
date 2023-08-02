@@ -11,7 +11,7 @@ permalink: /documentation
 
   <center>
   <a href="https://ko_research_group.gitlab.io/documentations/krg-doc/">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/docpic/krg-wiki.png" width="70%">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/docpic/krg-wiki.webp" width="70%">
   </a>
   </center>
 
