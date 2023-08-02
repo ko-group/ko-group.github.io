@@ -33,7 +33,7 @@ permalink: /team/
 <!-- recruiting banner/group photos -->
 
 <div class="col-sm-4 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/themepic/recruiting_banner/recruiting_banner.png" alt="Publication Theme" width="100%" align="right"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/themepic/recruiting_banner/recruiting_banner.webp" alt="Publication Theme" width="100%" align="right"/>
 </div>
 
 </div>

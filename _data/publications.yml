@@ -32,7 +32,7 @@
   #news2: <strong></strong>
 
 - title: "High-Throughput Condensed-Phase Hybrid Density Functional Theory for Large-Scale Finite-Gap Systems: The SeA Approach"
-  image: 2023_JCTC_SeA_toc.png
+  image: 2023_JCTC_SeA_toc.webp
   description: Enabling routine use of accurate and reliable hybrid DFT calculations for large-scale condensed-phase systems containing > 1,000 atoms
   authors: <strong>HY Ko</strong>, MF Calegari Andrade, ZM Sparrow, J Zhang, RA DiStasio Jr
   affliation: cornell
@@ -52,7 +52,7 @@
   highlight: 0
 
 - title: "Electrocatalysis in Alkaline Media and Alkaline Membrane-Based Energy Technologies"
-  image: 2022_ChemRev_CABES_cover.jpg 
+  image: 2022_ChemRev_CABES_cover.webp 
   description: Extensive review of alkaline media and alkaline membrane-based energy solutions from the CABES EFRC at Cornell
   authors: Y Yang, C R Peltier, R Zeng, R Schimmenti, Q Li, X Huang, Z Yan, G Potsi, R Selhorst, X Lu, W Xu, M Tader, A V Soudackov, H Zhang, M Krumov, E Murray, P Xu, J Hitt, L Xu, <strong>HY Ko</strong>, BG Ernst, C Bundschu, A Luo, D Markovich, M Hu, C He, H Wang, J Fang, RA DiStasio Jr, LF Kourkoutis, A Singer, KJT Noonan, L Xiao, L Zhuang, BS Pivovar, P Zelenay, E Herrero, JM Feliu, J Suntivich, EP Giannelis, S Hammes-Schiffer, T Arias, M Mavrikakis, TE Mallouk, JD Brock, DA Muller, FJ DiSalvo, GW Coates, HD Abruña
   affliation: cornell
@@ -124,7 +124,7 @@
   highlight: 0
 
 - title: "Free Energy of Proton Transfer at the Water - TiO<sub>2</sub> Interface from Ab Initio Deep Potential Molecular Dynamics"
-  image: 2020_ChemSci_TiO2_water_Cover.png
+  image: 2020_ChemSci_TiO2_water_Cover.webp
   description: TiO2-surface-assisted Grotthuss proton transfer from machine-learning based first-principles molecular dynamics simulations
   authors: MF Calegari Andrade, <strong>HY Ko</strong>, L Zhang, R Car, A Selloni
   affliation: princeton
@@ -135,7 +135,7 @@
 #    news2: <strong>Cover Article</strong>
 
 - title: "Isotope Effects in Liquid Water via Deep Potential Molecular Dynamics"
-  image: 2019_MolPhys_Isotope_toc_modified.png
+  image: 2019_MolPhys_Isotope_toc_modified.webp
   description: "Water structure upon isotope substitution: combining accurate vdW-inclusive hybrid DFT with machine learning"
   authors: <strong>HY Ko</strong>, L Zhang, B Santra, H Wang, W E, RA DiStasio Jr, R Car
   affliation: princeton
@@ -146,7 +146,7 @@
   #news2: <strong>Invited Article</strong>
 
 - title: "Reliable and Practical Computational Prediction of Molecular Crystal Polymorphs"
-  image: 2019_SciAdv_MCSP_Fig1.jpg
+  image: 2019_SciAdv_MCSP_Fig1.webp
   description: Predicting packing structures of molecular crystals
   authors: J Hoja, <strong>HY Ko</strong>, MA Neumann, R Car, RA DiStasio Jr, A Tkatchenko
   affliation: princeton
@@ -176,7 +176,7 @@
   highlight: 0
 
 - title: "Root-Growth of Boron Nitride Nanotubes: Experiments and Ab Initio Simulations"
-  image: 2018_Nanoscale_BNNT_backcover.png
+  image: 2018_Nanoscale_BNNT_backcover.webp
   description: Modeling plasma synthesis of Boron Nitride nanotube from first-principles based molecular simulations
   authors: B Santra, <strong>HY Ko</strong>, Y W Yeh, F Martelli, I Kaganovich, Y Raitses, R Car
   affliation: princeton
@@ -186,7 +186,7 @@
   highlight: 1
 
 - title: "Thermal Expansion in Dispersion-Bound Molecular Crystals"
-  image: 2018_PRM_pyridine.jpg
+  image: 2018_PRM_pyridine.webp
   description: "Realistic molecular crystal structure prediction requires: (1) anhamonicity of potential energy surface, (2) intermolecular Pauli repulsion promoted by intramolecular nuclear quantum fluctations, and (3) sophisticated DFT approximation (hybrid DFT+vdW)..."
   authors: <strong>HY Ko</strong>, RA DiStasio Jr, B Santra, R Car
   affliation: princeton
@@ -207,7 +207,7 @@
   news2: <strong>Editor's Pick</strong>
 
 - title: "Hydroxide Diffuses Slower than Hydronium in Water Because its Solvated Structure Inhibits Correlated Proton Transfer"
-  image: 2018_NatChem_Grotthuss_cartoon.jpg
+  image: 2018_NatChem_Grotthuss_cartoon.webp
   description: \"Simulations solve 200-year-old ionic mystery of water\" --Chemistry World
   authors: M Chen, L Zheng, B Santra, <strong>HY Ko</strong>, RA DiStasio Jr, ML Klein, R Car, X Wu
   affliation: princeton
@@ -240,7 +240,7 @@
   highlight: 0
 
 - title: "Advanced Capabilities for Materials Modelling with Quantum ESPRESSO"
-  image: 2017_JPCM_QE_logo.png
+  image: 2017_JPCM_QE_logo.webp
   description: Algorithmic developments in Quantum ESPRESSO package
   authors: P Giannozzi, O Andreussi, T Brumme, O Bunau, MB Nardelli, M Calandra, R Car, C Cavazzoni, D Ceresoli, M Cococcioni, N Colonna, I Carnimeo, AD Corso, S de Gironcoli, P Delugas, RA DiStasio Jr, A Ferretti, A Floris, G Fratesi, G Fugallo, R Gebauer, U Gerstmann, F Giustino, T Gorni, J Jia, M Kawamura, <strong>HY Ko</strong>, A Kokalj, E Küçükbenli, M Lazzeri, M Marsili, N Marzari, F Mauri, N L Nguyen, HV Nguyen, A Otero-de-la-Roza, L Paulatto, S Poncé, D Rocca, R Sabatini, B Santra, M Schlipf, AP Seitsonen, A Smogunov, I Timrov, T Thonhauser, P Umari, N Vast, X Wu, S Baroni
   affliation: princeton
@@ -250,7 +250,7 @@
   highlight: 1
 
 - title: "Ab Initio Theory and Modeling of Water"
-  image: 2017_PNAS_SCAN_Water_figs.jpg
+  image: 2017_PNAS_SCAN_Water_figs.webp
   description: Strongly constrained meta-GGA DFT functional sheds new light on atomistic modeling of water
   authors: M Chen, <strong>HY Ko</strong>, RC Remsing, MF Calegari~Andrade, B Santra, Z Sun, A Selloni, R Car, ML Klein, JP Perdew, X Wu
   affliation: princeton

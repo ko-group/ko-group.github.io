@@ -14,7 +14,7 @@ permalink: /publications/
 </div>
 
 <div class="col-sm-8">
-<img src="{{ site.url }}{{ site.baseurl }}/images/themepic/publications_banner/publications_banner.png" alt="Publication Theme" width="100%" align="right"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/themepic/publications_banner/publications_banner.webp" alt="Publication Theme" width="100%" align="right"/>
 </div>
 </div>
 

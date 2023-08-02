@@ -23,13 +23,13 @@ permalink: /
     <!-- TODO: theme, development, application -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slide1.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slide1.webp" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slide2.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slide2.webp" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slide3.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slide3.webp" alt="Slide 3" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
