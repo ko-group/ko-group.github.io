@@ -14,8 +14,8 @@ permalink: /team/
 <center>
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="90%"/>
 </center>
-  e: <{{ member.email }}><br>
-  p: {{ member.phone }}
+  &#128231; <{{ member.email }}><br>
+<!--   p: {{ member.phone }} -->
 </div>
 <div class="col-sm-5 clearfix">
   <h3>{{ member.name }}</h3>
