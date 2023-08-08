@@ -109,7 +109,7 @@ permalink: /team/
 
 Our group has several graduate student openings in computational condensed-phase chemistry starting in **Fall 2024**. These positions are funded via a combination of Teaching and Research Assistantships.
 
-Incoming graduate students in Fall 2024 will begin their training by applying our recent developed [SeA technique](https://pubs.acs.org/doi/10.1021/acs.jctc.2c00827) in conjunction with machine learning to study reactive processes in solutions and at interfaces relevant to energy, materials, and environmental sciences.
+Incoming graduate students in Fall 2024 will begin their training by applying our recently developed [SeA technique](https://pubs.acs.org/doi/10.1021/acs.jctc.2c00827) in conjunction with machine learning to study reactive processes in solutions and at interfaces relevant to energy, materials, and environmental sciences.
 
 In addition to computational condensed-phase chemistry, our group also has strengths in high-performance computing (using emerging parallel computing architectures ranging from leadership supercomputers with >10,000 CPUs to GPU accelerators) as well as modern software development and operations (DevOps).
 
