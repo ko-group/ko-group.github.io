@@ -7,7 +7,7 @@ permalink: /documentation
 ---
 
 ## Group Documentation
-  - [KRG Group Wiki](https://ko_research_group.gitlab.io/documentations/krg-doc/)
+  - [KRG Documentation System](https://ko_research_group.gitlab.io/documentations/krg-doc/)
 
   <center>
   <a href="https://ko_research_group.gitlab.io/documentations/krg-doc/">

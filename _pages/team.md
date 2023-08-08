@@ -103,3 +103,26 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+
+### We Are Recruting!
+
+Our group has several graduate student openings in computational condensed-phase chemistry starting in **Fall 2024**. These positions are funded via a combination of Teaching and Research Assistantships.
+
+Incoming graduate students in Fall 2024 will begin their training by applying our recent developed [SeA technique](https://pubs.acs.org/doi/10.1021/acs.jctc.2c00827) in conjunction with machine learning to study reactive processes in solutions and at interfaces relevant to energy, materials, and environmental sciences.
+
+In addition to computational condensed-phase chemistry, our group also has strengths in high-performance computing (using emerging parallel computing architectures ranging from leadership supercomputers with >10,000 CPUs to GPU accelerators) as well as modern software development and operations (DevOps).
+
+By combining rigorous scientific research and software development experience, I aim to prepare trainees in my group for their career success in industry, academia, and government labs.
+
+We encourage interested applicants to initiate the application process ([application instructions](https://chemistry.unt.edu/graduate-program/prospective-students/prospective-students-application-process)).
+
+
+
+<!-- TODO: Sponsor Logos -->
+<!--<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+</figure>-->
