@@ -7,9 +7,13 @@ sitemap: false
 permalink: /research/
 ---
 
-<!-- # Research -->
-
 ### Research Highlights
+
+Based on quantum and statistical mechanics, we develop computational algorithms and software using high-performance computing and machine-learning techniques. Our applications cover many scopes of chemistry, e.g.:
+
+- designing next-generation fuel cells
+- developing protocols to treat aqueous forever chemicals
+- understanding structures and reactive processes of polymers.
 
 {% assign number_printed = 0 %}
 {% for work in site.data.publications %}
