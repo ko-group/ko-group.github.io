@@ -6,7 +6,7 @@ sitemap: false
 permalink: /newsarchive.html
 ---
 
-## News Archive
+### News Archive
 
 {% for article in site.data.news %}
 {{ article.date }}

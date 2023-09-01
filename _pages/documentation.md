@@ -6,7 +6,7 @@ sitemap: false
 permalink: /documentation
 ---
 
-## Group Documentation
+### Group Documentation
   - [KRG Documentation System](https://ko_research_group.gitlab.io/documentations/krg-doc/)
 
   <center>

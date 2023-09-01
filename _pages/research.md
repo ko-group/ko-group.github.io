@@ -9,7 +9,7 @@ permalink: /research/
 
 <!-- # Research -->
 
-## Research Highlights
+### Research Highlights
 
 {% assign number_printed = 0 %}
 {% for work in site.data.publications %}

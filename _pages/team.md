@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-## Principal Investigator
+### Principal Investigator
 <div class="row">
 <!-- PI -->
 {% for member in site.data.pi.about %}

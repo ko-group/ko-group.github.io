@@ -9,7 +9,7 @@ permalink: /publications/
 
 <div class="row">
 <div class="col-sm-4">
-## Publications
+### Publications
 [Google Scholar Citations](https://scholar.google.com/citations?user=XIkT2kwAAAAJ&hl=en)
 </div>
 
