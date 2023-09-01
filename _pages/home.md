@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-## Welcome to Our Group!
+### Computational Condensed-Phase Chemistry
 
 <!-- We study atomistic structures and reactive processes of condensed-phase systems relevant to energy, materials, and environmental sciences. Based on quantum and statistical mechanics, we develop computational algorithms and software using high-performance computing and machine-learning techniques. Our applications cover many scopes of chemistry, e.g.: (1) designing next-generation fuel cells; (2) developing protocols to treat aqueous forever chemicals; (3) understanding structures and reactive processes of polymers. -->
 

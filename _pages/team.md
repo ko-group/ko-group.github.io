@@ -107,7 +107,7 @@ permalink: /team/
 
 ### We Are Recruting!
 
-Our group has several graduate student openings in computational condensed-phase chemistry starting in **Fall 2024**. These positions are funded via a combination of Teaching and Research Assistantships.
+Our group has several **Ph.D.-level graduate student openings** in computational condensed-phase chemistry starting in **Fall 2024**. These positions are funded via a combination of Teaching and Research Assistantships.
 
 Incoming graduate students in Fall 2024 will begin their training by applying our recently developed [SeA technique](https://pubs.acs.org/doi/10.1021/acs.jctc.2c00827) in conjunction with machine learning to study reactive processes in solutions and at interfaces relevant to energy, materials, and environmental sciences.
 
@@ -115,7 +115,7 @@ In addition to computational condensed-phase chemistry, our group also has stren
 
 By combining rigorous scientific research and software development experience, I aim to prepare trainees in my group for their career success in industry, academia, and government labs.
 
-We encourage interested applicants to initiate the application process ([application instructions](https://chemistry.unt.edu/graduate-program/prospective-students/prospective-students-application-process)).
+We encourage interested applicants to contact [Hsin-Yu](mailto:hsin-yu.ko@unt.edu) and initiate the application process ([application instructions](https://chemistry.unt.edu/graduate-program/prospective-students/prospective-students-application-process)).
 
 
 
