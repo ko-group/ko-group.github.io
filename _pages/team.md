@@ -109,14 +109,13 @@ permalink: /team/
 
 Our group has several **Ph.D.-level graduate student openings** in computational condensed-phase chemistry starting in **Fall 2024**. These positions are funded via a combination of Teaching and Research Assistantships.
 
-Incoming graduate students in Fall 2024 will begin their training by applying our recently developed [SeA technique](https://pubs.acs.org/doi/10.1021/acs.jctc.2c00827) in conjunction with machine learning to study reactive processes in solutions and at interfaces relevant to energy, materials, and environmental sciences.
+Incoming graduate students will apply our recently developed [SeA technique](https://pubs.acs.org/doi/10.1021/acs.jctc.2c00827) in conjunction with machine learning to study reactive processes in solutions and at interfaces relevant to energy, materials, and environmental sciences.
 
-In addition to computational condensed-phase chemistry, our group also has strengths in high-performance computing (using emerging parallel computing architectures ranging from leadership supercomputers with >10,000 CPUs to GPU accelerators) as well as modern software development and operations (DevOps).
+In addition to computational condensed-phase chemistry, our group also has strength in high-performance computing (using emerging parallel computing architectures ranging from leadership supercomputers with >10,000 CPUs to GPU accelerators) as well as modern software development and operations (DevOps).
 
-By combining rigorous scientific research and software development experience, I aim to prepare trainees in my group for their career success in industry, academia, and government labs.
+By combining rigorous scientific research and software development experience, we aim to prepare trainees for career success in industry, academia, and government labs.
 
-We encourage interested applicants to contact [Hsin-Yu](mailto:hsin-yu.ko@unt.edu) and initiate the application process ([application instructions](https://chemistry.unt.edu/graduate-program/prospective-students/prospective-students-application-process)).
-
+We encourage interested applicants to contact [Dr. Ko](mailto:hsin-yu.ko@unt.edu) and check out [our documentation page for prospective students]({{ site.url }}{{ site.baseurl }}/attachments/krg-doc-pages/Prospective-Students-KRG-Documentation-System-2023-09-03.pdf).
 
 
 <!-- TODO: Sponsor Logos -->
