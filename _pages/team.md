@@ -115,7 +115,7 @@ In addition to computational condensed-phase chemistry, our group also has stren
 
 By combining rigorous scientific research and software development experience, we aim to prepare trainees for career success in industry, academia, and government labs.
 
-We encourage interested applicants to contact [Dr. Ko](mailto:hsin-yu.ko@unt.edu) and check out [our documentation page for prospective students]({{ site.url }}{{ site.baseurl }}/attachments/krg-doc-pages/Prospective-Students-KRG-Documentation-System-2023-09-03.pdf).
+We encourage interested applicants to contact [Dr. Ko](mailto:hsin-yu.ko@unt.edu) and check out [our documentation page for prospective students](https://drive.google.com/file/d/1PkuUNCBpZUhnWZTsD4KTu9F8YrlY4ALR/view?usp=sharing).
 
 
 <!-- TODO: Sponsor Logos -->
