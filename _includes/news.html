@@ -4,8 +4,14 @@
 
   {% for article in site.data.news limit:9 %}
   <p>{{ article.date }}<br>{{ article.headline | markdownify}}
-  <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.picture }}" alt="News Picture" width="100%" align="right"/>
-<img src="{{ article.web_picture }}" alt="News Picture (from Web)" width="100%"/>
+{% if article.picture == ""  %}
+{% else %}
+    <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.picture }}" alt="News Picture" width="100%"/>
+{% endif %}
+{% if article.web_picture == ""  %}
+{% else %}
+    <img src="{{ article.web_picture }}" alt="News Picture (from Web)" width="100%"/>
+{% endif %}
  </p>
   {% endfor %}
 
