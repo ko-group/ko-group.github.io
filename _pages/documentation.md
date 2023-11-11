@@ -16,4 +16,4 @@ permalink: /documentation
   </a>
   </center>
 
-  We are happy to invite you as guests to our system. Please contact [Hsin-Yu](mailto:hsin-yu.ko@unt.edu) if you are interested.
+  We are happy to invite you as a guest to our system. Please contact [Hsin-Yu](mailto:hsin-yu.ko@unt.edu) if you are interested.
