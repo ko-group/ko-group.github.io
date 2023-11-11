@@ -7,6 +7,7 @@ permalink: /documentation
 ---
 
 ### Group Documentation
+
   - [KRG Documentation System](https://ko_research_group.gitlab.io/documentations/krg-doc/)
 
   <center>
@@ -14,3 +15,5 @@ permalink: /documentation
     <img src="{{ site.url }}{{ site.baseurl }}/images/docpic/krg-wiki.webp" width="70%">
   </a>
   </center>
+
+  We are happy to invite you as guests to our system. Please contact [Hsin-Yu](mailto:hsin-yu.ko@unt.edu) if you are interested.
