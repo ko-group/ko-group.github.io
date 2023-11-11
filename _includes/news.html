@@ -4,7 +4,8 @@
 
   {% for article in site.data.news limit:9 %}
   <p>{{ article.date }}<br>{{ article.headline | markdownify}}
-  <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.picture }}" alt="Publication Theme" width="100%" align="right"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.picture }}" alt="News Picture" width="100%" align="right"/>
+<img src="{{ article.web_picture }}" alt="News Picture (from Web)" width="100%"/>
  </p>
   {% endfor %}
 

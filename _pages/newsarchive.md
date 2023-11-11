@@ -12,7 +12,8 @@ permalink: /newsarchive.html
 {{ article.date }}
 {{ article.headline | markdownify}}
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.picture }}" alt="Publication Theme" width="50%"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.picture }}" alt="News Picture" width="50%"/>
+<img src="{{ article.web_picture }}" alt="News Picture (from Web)" width="50%"/>
 </center>
 <br>
 {% endfor %}
