@@ -12,12 +12,10 @@ permalink: /newsarchive.html
 {{ article.date }}
 {{ article.headline | markdownify}}
 <center>
-{% if article.picture == ""  %}
-{% else %}
+{% if article.picture != nil  %}
     <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.picture }}" alt="News Picture" width="50%"/>
 {% endif %}
-{% if article.web_picture == ""  %}
-{% else %}
+{% if article.web_picture != nil  %}
     <img src="{{ article.web_picture }}" alt="News Picture (from Web)" width="50%"/>
 {% endif %}
 </center>
