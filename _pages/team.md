@@ -18,27 +18,29 @@ permalink: /team/
 <!--   p: {{ member.phone }} -->
 </div>
 <div class="col-sm-5 clearfix">
-  <h3>{{ member.name }}</h3>
+<h3><a href="{{ site.url }}{{ site.baseurl }}/team/{{ member.href }}">
+  {{ member.name }}
+</a></h3>
   <h4>{{ member.info }}</h4>
 
   <ul style="overflow: hidden">
   {% for edu in site.data.pi.education %}
   <li> {{ edu.title }}, {{ edu.institution }}</li>
   {% endfor %}
-
   </ul>
 </div>
+</div>
+<!--<details>
+  <summary>
+  <h4> Short Bio..</h4>
+  </summary>
+{{ member.bio }}
+</details>-->
 {% endfor %}
 
 <!-- recruiting banner/group photos -->
 
-<div class="col-sm-4 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/themepic/recruiting_banner/recruiting_banner.webp" alt="Publication Theme" width="100%" align="right"/>
-</div>
-
-</div>
-
-<!--  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
+**We are  looking for new PhD students, Postdocs, and Master students to join the team [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) !**
 
 <!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
@@ -104,18 +106,6 @@ permalink: /team/
 </div>
 {% endif %}
 
-
-### We Are Recruting!
-
-Our group has several **Ph.D.-level graduate student openings** in computational condensed-phase chemistry starting in **Fall 2024**. These positions are funded via a combination of Teaching and Research Assistantships.
-
-Incoming graduate students will apply our recently developed [SeA technique](https://pubs.acs.org/doi/10.1021/acs.jctc.2c00827) in conjunction with machine learning to study reactive processes in solutions and at interfaces relevant to energy, materials, and environmental sciences.
-
-In addition to computational condensed-phase chemistry, our group also has strength in high-performance computing (using emerging parallel computing architectures ranging from leadership supercomputers with >10,000 CPUs to GPU accelerators) as well as modern software development and operations (DevOps).
-
-By combining rigorous scientific research and software development experience, we aim to prepare trainees for career success in industry, academia, and government labs.
-
-We encourage interested applicants to contact [Hsin-Yu](mailto:hsin-yu.ko@unt.edu) and check out [our documentation page for prospective students](https://drive.google.com/file/d/1PkuUNCBpZUhnWZTsD4KTu9F8YrlY4ALR/view?usp=sharing).
 
 
 <!-- TODO: Sponsor Logos -->
