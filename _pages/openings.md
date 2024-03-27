@@ -14,7 +14,7 @@ permalink: /openings
 <img src="{{ site.url }}{{ site.baseurl }}/images/themepic/recruiting_banner/recruiting_banner.webp" alt="Publication Theme" width="100%" align="right"/>
 </div>
 <div class="col-sm-8 clearfix">
-Our group has several **Ph.D.-level graduate student openings** in computational condensed-phase chemistry starting in **Fall 2024**. These positions are funded via a combination of Teaching and Research Assistantships.
+Our group is looking for motivated **Ph.D. students** in computational condensed-phase chemistry (funded via Teaching and Research Assistantships).
 
 Incoming graduate students will apply our recently developed [SeA technique](https://pubs.acs.org/doi/10.1021/acs.jctc.2c00827) in conjunction with machine learning to study reactive processes in solutions and at interfaces relevant to energy, materials, and environmental sciences.
 
