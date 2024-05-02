@@ -8,7 +8,7 @@ permalink: /krg-resources
 
 ### KRG Resources
 
-  - [Documentation System](https://docs.ko-research.org/)
+  - Documentation System: [internal](https://docs.ko-research.org/)/[public](https://public.docs.ko-research.org/)
 
     <center>
     <a href="https://docs.ko-research.org/">
