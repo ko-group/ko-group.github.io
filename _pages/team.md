@@ -92,6 +92,8 @@ permalink: /team/
   </ul>
 </div>
 
+<br/>
+
 {% endfor %}
 
 
