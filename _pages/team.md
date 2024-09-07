@@ -7,6 +7,7 @@ permalink: /team/
 ---
 
 ### Principal Investigator
+
 <div class="row">
 <!-- PI -->
 {% for member in site.data.pi.about %}
@@ -38,7 +39,7 @@ permalink: /team/
 </details>-->
 {% endfor %}
 
-<!-- recruiting banner/group photos -->
+### Team Members
 
 <!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
@@ -112,8 +113,10 @@ permalink: /team/
 {% endif %}
 
 
+### Join Us
 
-**We are recruiting!**
+We welcome motivated students and postdocs in computational chemistry and related fields (e.g., physics, computer science) to contact [Dr. Ko](mailto:hsin-yu.ko@unt.edu).
+
 
 <!-- TODO: Sponsor Logos -->
 <!--<figure class="fourth">
