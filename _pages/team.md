@@ -115,8 +115,7 @@ permalink: /team/
 
 ### Join Us
 
-We welcome motivated students and postdocs in computational chemistry and related fields (e.g., physics, computer science) to contact [Dr. Ko](mailto:hsin-yu.ko@unt.edu).
-
+We welcome motivated students and postdocs in computational chemistry and related fields (e.g., physics, computer science) to contact [Dr. Ko](mailto:hsin-yu.ko@unt.edu) or join our <a href="{{ site.url }}{{ site.baseurl }}/group-meetings">group meetings</a>.
 
 <!-- TODO: Sponsor Logos -->
 <!--<figure class="fourth">
