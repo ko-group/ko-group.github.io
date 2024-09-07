@@ -53,6 +53,28 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-3 clearfix">
+<center>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="90%"/>
+</center>
+  &#128231; <{{ member.email }}><br>
+<!--   p: {{ member.phone }} -->
+</div>
+<div class="col-sm-5 clearfix">
+<h3><a href="{{ site.url }}{{ site.baseurl }}/team/{{ member.href }}">
+  {{ member.name }}
+</a></h3>
+  <h4>{{ member.info }}</h4>
+
+  <ul style="overflow: hidden">
+  {% for edu in site.data.pi.education %}
+  <li> {{ edu.title }}, {{ edu.institution }}</li>
+  {% endfor %}
+  </ul>
+</div>
+</div>
+
+<!--
+<div class="col-sm-3 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="90%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
@@ -90,6 +112,7 @@ permalink: /team/
 
   </ul>
 </div>
+-->
 
 {% assign number_printed = number_printed | plus: 1 %}
 
