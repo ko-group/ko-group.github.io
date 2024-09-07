@@ -40,8 +40,6 @@ permalink: /team/
 
 <!-- recruiting banner/group photos -->
 
-**We are  looking for new PhD students, Postdocs, and Master students to join the team [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) !**
-
 <!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
 
@@ -55,7 +53,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="90%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
@@ -107,6 +105,8 @@ permalink: /team/
 {% endif %}
 
 
+
+**We are recruiting!**
 
 <!-- TODO: Sponsor Logos -->
 <!--<figure class="fourth">
