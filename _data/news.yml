@@ -4,11 +4,12 @@
 
 - date: 2024-08-22
   headline: "Student Office (226) Furnished"
-  web_picture: 226.webp
+  picture: 226.webp
 
 - date: 2024-04-09
   headline: "Congratulations to Bharatha on receives UNT TGS Scholarship"
-  web_picture: https://ko-research.org/images/teampic/Bharatha_K_Gunawardana.webp
+  #web_picture: https://ko-research.org/images/teampic/Bharatha_K_Gunawardana.webp
+  picture: ../teampic/Bharatha_K_Gunawardana.webp
 
 - date: 2024-03-12
   headline: "Welcome aboard Bharatha!"
