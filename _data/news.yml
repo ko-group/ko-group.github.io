@@ -1,14 +1,18 @@
-#  - date: 
-#    headline: ""
-#    web_picture:
+- date: 2024-08-26
+  headline: "Welcome aboard Srinjoy!"
+  web_picture: https://ko-research.org/images/teampic/TAMS.webp
+
+- date: 2024-08-22
+  headline: "Student Office (226) Furnished"
+  web_picture: 226.webp
 
 - date: 2024-04-09
   headline: "Congratulations to Bharatha on receives UNT TGS Scholarship"
-  web_picture:
+  web_picture: https://ko-research.org/images/teampic/Bharatha_K_Gunawardana.webp
 
 - date: 2024-03-12
-  headline: "Welcome aboard Bharatha Gunawardana!"
-  web_picture: ../teampic/Bharatha_K_Gunawardana.webp
+  headline: "Welcome aboard Bharatha!"
+  web_picture: https://ko-research.org/images/teampic/Bharatha_K_Gunawardana.webp
 
 - date: 2023-11-11
   headline: "Our group are working with Dell to add three NVIDIA HGX H100 nodes to boost our HPC/ML capabilities (image credit: NVidia)."
