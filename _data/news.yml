@@ -8,12 +8,11 @@
 
 - date: 2024-04-09
   headline: "Congratulations to Bharatha on receives UNT TGS Scholarship"
-  #web_picture: https://ko-research.org/images/teampic/Bharatha_K_Gunawardana.webp
   picture: ../teampic/Bharatha_K_Gunawardana.webp
 
 - date: 2024-03-12
   headline: "Welcome aboard Bharatha!"
-  web_picture: https://ko-research.org/images/teampic/Bharatha_K_Gunawardana.webp
+  picture: ../teampic/Bharatha_K_Gunawardana.webp
 
 - date: 2023-11-11
   headline: "Our group are working with Dell to add three NVIDIA HGX H100 nodes to boost our HPC/ML capabilities (image credit: NVidia)."
