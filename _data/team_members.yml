@@ -5,7 +5,7 @@
   email: bharathagunawardana@my.unt.edu
   id: 1
   number_educ: 1
-  education1: B.Sc., Rajarata University of Sri Lanka
+  education1: B.S., Rajarata University of Sri Lanka
   education2:
   education3:
   education4:
@@ -24,7 +24,6 @@
   education4:
   bio:
 
-
 - name: Krish Kohir
   href:
   photo: TAMS.webp
@@ -34,6 +33,45 @@
   number_educ: 0
   education1:
   education2:
+  education3:
+  education4:
+  bio:
+
+- name: Akshath Shastri
+  href:
+  photo: TAMS.webp
+  info: TAMS Student
+  email: akshathshastri@my.unt.edu
+  id: 4
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+  bio:
+
+- name: Teresa Shah
+  href: teresa_shah
+  photo: Teresa_Shah.webp
+  info: Graduate Student
+  email: teresashah@my.unt.edu
+  id: 5
+  number_educ: 2
+  education1: M.S., Tribhuvan University
+  education2: B.S., Tribhuvan University
+  education3:
+  education4:
+  bio:
+
+- name: Deepa Ranabhat
+  href: deepa_ranabhat
+  photo: Deepa_Ranabhat.webp
+  info: Graduate Student
+  email: deeparanabhat@my.unt.edu
+  id: 6
+  number_educ: 2
+  education1: M.S., Tribhuvan University
+  education2: B.S., Tribhuvan University
   education3:
   education4:
   bio:
