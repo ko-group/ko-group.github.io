@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-### Gallery
+<!-- ### Gallery -->
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
