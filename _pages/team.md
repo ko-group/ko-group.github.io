@@ -17,7 +17,8 @@ permalink: /team/
   <object data="https://lh3.googleusercontent.com/pw/AP1GczOuiIF0nS7TZ1U0SSi4BcNjotPPGnvNUfMDmDERwXPdjiaR9Szc-n7Wtmc61Y_iPi4wyUQmrcxPdiKOddOL7q7ajYS98hgCBLkVOLpunOU_SP0vzg=w1920-h1080"></object>
 </div>
 
-### Principal Investigator
+
+<!-- ### Principal Investigator -->
 
 <div class="row">
 <!-- PI -->
@@ -50,7 +51,7 @@ permalink: /team/
 </details>-->
 {% endfor %}
 
-### Team Members
+<!-- ### Team Members -->
 
 <!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
