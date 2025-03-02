@@ -9,7 +9,8 @@ permalink: /team/
 <!-- ### Gallery -->
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+<!-- <div class="pa-gallery-player-widget" style="width:100%; height:300px; display:none;" -->
+<div class="pa-gallery-player-widget" style="width:100%; height:300px;"
   data-link="https://photos.app.goo.gl/NF1JMspgx7ph5KF2A"
   data-title="Ko Research Group Gallery"
   data-description="2 new items added to shared album">
