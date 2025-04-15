@@ -44,7 +44,9 @@ We study **atomistic structures** and **reactive processes** of condensed-phase 
 
 ### We Are Hiring a Postdoctoral Research Associate
 
+<center>
 <a src="https://careers.untsystem.edu/jobs/postdoctoral-research-associate-chemistry-denton-texas-united-states"
 title="UNT Job Posting">
-<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025/postdoc-job-2025-05.png" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025/postdoc-job-2025-05.png" width="80%" />
 </a>
+</center>
