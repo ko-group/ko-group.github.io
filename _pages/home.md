@@ -6,9 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-### Condensed-Phase Chemistry Group
+### Computational Condensed-Phase Chemistry
 
-We study **atomistic structures** and **reactive processes** of condensed-phase systems relevant to <span style="color:#00853E;">**energy**</span>, <span style="color:#00853E;">**materials**</span>, and <span style="color:#00853E;">**environmental sciences**</span>.
+We develop first-principles theory and computation to build a **Digital Twin** for exploring condensed-phase chemistry relevant to <span style="color:#00853E;">**energy**</span>, <span style="color:#00853E;">**environmental**</span>, and <span style="color:#00853E;">**materials sciences**</span>.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="10000" data-pause="hover" >
     <!-- Menu -->
@@ -41,6 +41,7 @@ We study **atomistic structures** and **reactive processes** of condensed-phase 
   </a>
 </div>
 
+--
 
 - We Are Hiring a Postdoctoral Research Associate ([Application Link](https://careers.untsystem.edu/jobs/postdoctoral-research-associate-chemistry-denton-texas-united-states))
 
