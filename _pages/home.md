@@ -8,7 +8,8 @@ permalink: /
 
 ### Computational Condensed-Phase Chemistry
 
-We develop first-principles theory and computation to build a **Digital Twin** for exploring condensed-phase chemistry relevant to <span style="color:#00853E;">**energy**</span>, <span style="color:#00853E;">**environmental**</span>, and <span style="color:#00853E;">**materials sciences**</span>.
+We develop first-principles theory and computation for exploring **condensed-phase chemistry** relevant to <span style="color:#00853E;">**energy**</span>, <span style="color:#00853E;">**environmental**</span>, and <span style="color:#00853E;">**materials sciences**</span>.
+Our group also aims to provide **Digital Twins** to augment experiments via machine-learning force fields trained from first-principles electronic-structure theory.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="10000" data-pause="hover" >
     <!-- Menu -->
