@@ -226,17 +226,11 @@ permalink: /team/
 {% endfor %}
 
 
-### Join Us
+<!-- ### Join Us
 
 We welcome motivated students and postdocs in computational chemistry and related fields (e.g., physics, computer science) to contact [Dr. Ko](mailto:hsin-yu.ko@unt.edu) and/or join our <a href="{{ site.url }}{{ site.baseurl }}/group-meetings">group meetings</a>.
+ -->
 
-<!-- TODO: Sponsor Logos -->
-<!--<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-</figure>-->
 
 ### Alumni
 
@@ -245,3 +239,11 @@ We welcome motivated students and postdocs in computational chemistry and relate
 - {{ member.name }}
  {% endif %}
 {% endfor %}
+
+<!-- TODO: Sponsor Logos -->
+<!--<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+</figure>-->
