@@ -56,12 +56,10 @@ permalink: /team/
 </details>-->
 {% endfor %}
 
-<!-- ### Team Members -->
-
-<!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
-
+### Postdoctoral Research Associate
 
 {% for member in site.data.team_members %}
+  {% if member.level == 3 %}
 <div class="row">
 <div class="col-sm-3 clearfix">
 <center>
@@ -109,8 +107,116 @@ permalink: /team/
   </ul>
 </div>
 </div>
+ {% endif %}
+{% endfor %}
 
 
+### Graduate Students
+
+{% for member in site.data.team_members %}
+  {% if member.level == 2 %}
+<div class="row">
+<div class="col-sm-3 clearfix">
+<center>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="90%"/>
+</center>
+  &#128231; <{{ member.email }}><br>
+<!--   p: {{ member.phone }} -->
+</div>
+<div class="col-sm-5 clearfix">
+<h3><a href="{{ site.url }}{{ site.baseurl }}/team/{{ member.href }}">
+  {{ member.name }}
+</a></h3>
+  <h4>{{ member.info }}</h4>
+
+  <ul style="overflow: hidden">
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 5 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+  {% endif %}
+  </ul>
+</div>
+</div>
+ {% endif %}
+{% endfor %}
+
+### Undergraduate/TAMS Students
+
+{% for member in site.data.team_members %}
+  {% if member.level == 1 %}
+<div class="row">
+<div class="col-sm-3 clearfix">
+<center>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="90%"/>
+</center>
+  &#128231; <{{ member.email }}><br>
+<!--   p: {{ member.phone }} -->
+</div>
+<div class="col-sm-5 clearfix">
+<h3><a href="{{ site.url }}{{ site.baseurl }}/team/{{ member.href }}">
+  {{ member.name }}
+</a></h3>
+  <h4>{{ member.info }}</h4>
+
+  <ul style="overflow: hidden">
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 5 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+  {% endif %}
+  </ul>
+</div>
+</div>
+ {% endif %}
 {% endfor %}
 
 
@@ -125,3 +231,11 @@ We welcome motivated students and postdocs in computational chemistry and relate
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
 </figure>-->
+
+### Alumni
+
+{% for member in site.data.team_members %}
+  {% if member.level == -1 %}
+- {{ member.name }}
+ {% endif %}
+{% endfor %}

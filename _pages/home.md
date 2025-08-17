@@ -42,13 +42,3 @@ Our group also aims to provide **Digital Twins** to augment experiments via mach
   </a>
 </div>
 
----
-
-- We Are Hiring a Postdoctoral Research Associate ([Application Link](https://careers.untsystem.edu/jobs/postdoctoral-research-associate-chemistry-denton-texas-united-states))
-
-<center>
-<a href="https://careers.untsystem.edu/jobs/postdoctoral-research-associate-chemistry-denton-texas-united-states"
-title="UNT Job Posting">
-<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025/postdoc-job-2025-05.png" width="100%" />
-</a>
-</center>
