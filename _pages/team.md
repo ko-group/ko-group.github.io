@@ -69,9 +69,11 @@ permalink: /team/
 <!--   p: {{ member.phone }} -->
 </div>
 <div class="col-sm-5 clearfix">
-<h3><a href="{{ site.url }}{{ site.baseurl }}/team/{{ member.href }}">
+<h3>
+<!--  <a href="{{ site.url }}{{ site.baseurl }}/team/{{ member.href }}">  -->
   {{ member.name }}
-</a></h3>
+<!--  </a>  -->
+</h3>
   <h4>{{ member.info }}</h4>
 
   <ul style="overflow: hidden">
@@ -124,9 +126,11 @@ permalink: /team/
 <!--   p: {{ member.phone }} -->
 </div>
 <div class="col-sm-5 clearfix">
-<h3><a href="{{ site.url }}{{ site.baseurl }}/team/{{ member.href }}">
+<h3>
+<!--  <a href="{{ site.url }}{{ site.baseurl }}/team/{{ member.href }}">  -->
   {{ member.name }}
-</a></h3>
+<!--  </a>  -->
+</h3>
   <h4>{{ member.info }}</h4>
 
   <ul style="overflow: hidden">
@@ -178,9 +182,11 @@ permalink: /team/
 <!--   p: {{ member.phone }} -->
 </div>
 <div class="col-sm-5 clearfix">
-<h3><a href="{{ site.url }}{{ site.baseurl }}/team/{{ member.href }}">
+<h3>
+<!--  <a href="{{ site.url }}{{ site.baseurl }}/team/{{ member.href }}">  -->
   {{ member.name }}
-</a></h3>
+<!--  </a>  -->
+</h3>
   <h4>{{ member.info }}</h4>
 
   <ul style="overflow: hidden">
