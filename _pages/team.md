@@ -6,21 +6,6 @@ sitemap: false
 permalink: /team/
 ---
 
-<!-- ### Gallery -->
-
-<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<!-- <div class="pa-gallery-player-widget" style="width:100%; height:300px; display:none;" -->
-<div class="pa-gallery-player-widget" style="width:100%; height:300px;"
-  data-link="https://photos.app.goo.gl/NF1JMspgx7ph5KF2A"
-  data-title="Ko Research Group Gallery"
-  data-description="6 new items added to shared album">
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczOMA82-ygDcpM6rsiHMQtKac1yVhoIjb1RjE-N5C1znElmSIIi6lY0oPWQqSorGK1dAB5Y2AIr0By7u7QwRG23lFsGe7XzLXg0lp9pcLSRg6GNY1A=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczOuiIF0nS7TZ1U0SSi4BcNjotPPGnvNUfMDmDERwXPdjiaR9Szc-n7Wtmc61Y_iPi4wyUQmrcxPdiKOddOL7q7ajYS98hgCBLkVOLpunOU_SP0vzg=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczMoG5h0PmVy-YT_rlt6hH5Sym4RI3Ut4mInZQb4S7EbpXn5srj_dLK_WOALMu-ydxB5lWNbht3yA9KRyvxh_C1AjOAGSSzceIwJW6S1Z27P-yEr1wE=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczN7qZc4S6ev7S1U-1p4-7677ghJf3gZYKkb_SjR92BpyYD5P48xun1-DOMZ_XMkI-oWPLn6rAMFUiX7wu12ToeWg-1wWbLQc_4Dn4eiCQZ7rbTZBJw=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczMg85UTkLapv5Mk5IElsQg9SYRZVKDC3gMV4tzcv5r3TGV9i8Kw-qLXoXlhiGos4UFG2epAzZAskP1LWUQfRiWcFPuWcc6ND7kdX7ZIl8WboTduByY=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczN6orEiCjNrgP_FYCFbWH0tmpNzzuu9bc_Z4TmDNNNgMVs0cnwA2yj0g8XEs3BUKxnxqwAYyjiQoBPtCm7YG7xBDujZUWotcEEYU4OpAube4ioN5bk=w1920-h1080"></object>
-</div>
 
 
 <!-- ### Principal Investigator -->
@@ -226,19 +211,29 @@ permalink: /team/
 {% endfor %}
 
 
+- <a href="{{ site.url }}{{ site.baseurl }}/team/alumni"> KRG Alumni </a>
+
+<!-- ### Gallery -->
+
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<!-- <div class="pa-gallery-player-widget" style="width:100%; height:300px; display:none;" -->
+<div class="pa-gallery-player-widget" style="width:100%; height:300px;"
+  data-link="https://photos.app.goo.gl/NF1JMspgx7ph5KF2A"
+  data-title="Ko Research Group Gallery"
+  data-description="6 new items added to shared album">
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczOMA82-ygDcpM6rsiHMQtKac1yVhoIjb1RjE-N5C1znElmSIIi6lY0oPWQqSorGK1dAB5Y2AIr0By7u7QwRG23lFsGe7XzLXg0lp9pcLSRg6GNY1A=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczOuiIF0nS7TZ1U0SSi4BcNjotPPGnvNUfMDmDERwXPdjiaR9Szc-n7Wtmc61Y_iPi4wyUQmrcxPdiKOddOL7q7ajYS98hgCBLkVOLpunOU_SP0vzg=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczMoG5h0PmVy-YT_rlt6hH5Sym4RI3Ut4mInZQb4S7EbpXn5srj_dLK_WOALMu-ydxB5lWNbht3yA9KRyvxh_C1AjOAGSSzceIwJW6S1Z27P-yEr1wE=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczN7qZc4S6ev7S1U-1p4-7677ghJf3gZYKkb_SjR92BpyYD5P48xun1-DOMZ_XMkI-oWPLn6rAMFUiX7wu12ToeWg-1wWbLQc_4Dn4eiCQZ7rbTZBJw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczMg85UTkLapv5Mk5IElsQg9SYRZVKDC3gMV4tzcv5r3TGV9i8Kw-qLXoXlhiGos4UFG2epAzZAskP1LWUQfRiWcFPuWcc6ND7kdX7ZIl8WboTduByY=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczN6orEiCjNrgP_FYCFbWH0tmpNzzuu9bc_Z4TmDNNNgMVs0cnwA2yj0g8XEs3BUKxnxqwAYyjiQoBPtCm7YG7xBDujZUWotcEEYU4OpAube4ioN5bk=w1920-h1080"></object>
+</div>
+
+
 <!-- ### Join Us
 
 We welcome motivated students and postdocs in computational chemistry and related fields (e.g., physics, computer science) to contact [Dr. Ko](mailto:hsin-yu.ko@unt.edu) and/or join our <a href="{{ site.url }}{{ site.baseurl }}/group-meetings">group meetings</a>.
  -->
-
-
-### Alumni
-
-{% for member in site.data.team_members %}
-  {% if member.level == -1 %}
-- {{ member.name }}
- {% endif %}
-{% endfor %}
 
 <!-- TODO: Sponsor Logos -->
 <!--<figure class="fourth">
@@ -247,3 +242,4 @@ We welcome motivated students and postdocs in computational chemistry and relate
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
 </figure>-->
+
