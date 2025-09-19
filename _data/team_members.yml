@@ -54,48 +54,6 @@
   education4:
   bio:
 
-- name: Srinjoy Ghose
-  href:
-  photo: TAMS.webp
-  info: TAMS Student
-  email: srinjoyghose@my.unt.edu
-  level: -1
-  id: 1
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
-  bio:
-
-- name: Krish Kohir
-  href:
-  photo: TAMS.webp
-  info: TAMS Student
-  email: krishkohir@my.unt.edu
-  level: -1
-  id: 2
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
-  bio:
-
-- name: Akshath Shastri
-  href:
-  photo: TAMS.webp
-  info: TAMS Student
-  email: akshathshastri@my.unt.edu
-  level: 1
-  id: 3
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
-  bio:
-
 
 - name: Dr. Yizhi Song
   href: yizhi_song
@@ -118,9 +76,51 @@
   info: Undergraduate Student (Biochemistry)
   email: IdilTasyumruk@my.unt.edu
   level: 1
-  id: 4
+  id: 1
   number_educ: 0
   education1: 
+  education2:
+  education3:
+  education4:
+  bio:
+
+- name: Srinjoy Ghose
+  href:
+  photo: TAMS.webp
+  info: TAMS Student
+  email: srinjoyghose@my.unt.edu
+  level: -1
+  id: 1001
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+  bio:
+
+- name: Krish Kohir
+  href:
+  photo: TAMS.webp
+  info: TAMS Student
+  email: krishkohir@my.unt.edu
+  level: -1
+  id: 1002
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+  bio:
+
+- name: Akshath Shastri
+  href:
+  photo: TAMS.webp
+  info: TAMS Student
+  email: akshathshastri@my.unt.edu
+  level: 1
+  id: 1003
+  number_educ: 0
+  education1:
   education2:
   education3:
   education4:
