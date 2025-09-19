@@ -227,8 +227,10 @@ permalink: /team/
 {% endfor %}
 
 
+
 - <a href="{{ site.url }}{{ site.baseurl }}/team/alumni"> KRG Alumni </a>
 
+<!--  ### Research   -->
 
 <!-- ### Join Us
 
