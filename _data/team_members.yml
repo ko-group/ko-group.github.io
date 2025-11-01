@@ -55,6 +55,21 @@
   bio:
 
 
+- name: Kriti Alam
+  href: kriti__alam
+  photo: Kriti_Alam.webp
+  info: Graduate Student
+  email: kritialam@my.unt.edu
+  level: 2
+  id: 5
+  number_educ: 2
+  education1: M.S., Indian Institute of Technology Jodhpur
+  education2: B.S., New Alipore College
+  education3:
+  education4:
+  bio:
+
+
 - name: Dr. Yizhi Song
   href: yizhi_song
   photo: Yizhi_Song.webp
