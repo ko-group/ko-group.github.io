@@ -99,6 +99,34 @@
   education4:
   bio:
 
+- name: Peyton Calvert
+  href:
+  photo: Peyton_Calvert.webp
+  info: Undergraduate Student (Biochemistry)
+  email: PeytonCalvert@my.unt.edu
+  level: 1
+  id: 2
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+  bio: Joined 2025-11-30
+
+- name: Juliana Trejo
+  href:
+  photo: Juliana_Trejo.webp
+  info: Undergraduate Student (Chemistry)
+  email: JulianaTrejo@my.unt.edu
+  level: 1
+  id: 3
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+  bio: Joined 2025-12-12
+
 - name: Srinjoy Ghose
   href:
   photo: TAMS.webp
