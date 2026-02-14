@@ -54,7 +54,6 @@
   education4:
   bio:
 
-
 - name: Kriti Alam
   href: kriti__alam
   photo: Kriti_Alam.webp
@@ -68,7 +67,6 @@
   education3:
   education4:
   bio:
-
 
 - name: Dr. Yizhi Song
   href: yizhi_song
@@ -162,6 +160,20 @@
   email: akshathshastri@my.unt.edu
   level: 1
   id: 1003
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+  bio:
+
+- name: Anvitha Pasam
+  href:
+  photo: TAMS.webp
+  info: TAMS Student
+  email: AnvithaPasam@my.unt.edu
+  level: 1
+  id: 1004
   number_educ: 0
   education1:
   education2:
